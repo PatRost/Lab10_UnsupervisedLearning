@@ -20,8 +20,8 @@ My main contribution was working through the notebook, checking the results, and
 
 ---
 
-### Member 2: [Enter Full Name]
-**Contribution:**
+### Member 2: Saimi Manasiya
+I contributed to completing this lab by working through the different tasks related to unsupervised learning. I used Google Colab and Python to understand and apply K-Means Clustering and Principal Component Analysis (PCA). First, I worked with a synthetic customer dataset containing 300 data points and used the Elbow Method to calculate inertia values for different numbers of clusters, from 1 to 10. After analyzing the elbow graph, I identified four as the optimal number of clusters and applied the K-Means algorithm to group the data points. I also created scatter plots to display the clusters and their centroids and checked the number of data points in each group. In the second part, I worked with the Iris dataset, standardized its four features, and used PCA to reduce them to two principal components. I also created a visualization and reviewed the explained variance results to understand how much information was retained after reducing the dimensions. By completing these activities, I practiced using Python libraries, writing code, interpreting graphs, and understanding how machine learning algorithms work with different datasets.
 
 
 ---
