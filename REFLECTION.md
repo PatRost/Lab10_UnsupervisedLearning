@@ -18,8 +18,8 @@ Overall, this lab gave me more confidence in working with machine learning algor
 
 ---
 
-### Member 2: [Enter Full Name]
-**Reflection:**
+### Member 2: Saimi Manasiya
+This lab was a valuable learning experience because it helped me understand how unsupervised learning can discover hidden patterns in data without using labeled information. I learned how K-Means Clustering separates similar data points into groups and how the Elbow Method helps determine a suitable number of clusters. I also gained a better understanding of PCA and how it simplifies a dataset by reducing the number of features while preserving important information. One thing I found interesting was visualizing the clusters and seeing how the Iris dataset could be represented using only two principal components instead of four. Although some parts of the coding and understanding the graphs required more attention, completing each task helped me become more comfortable with Python and machine learning concepts. Overall, this lab improved my practical knowledge and helped me understand how unsupervised learning techniques can be useful for analyzing larger datasets and identifying patterns.
 
 ---
 
