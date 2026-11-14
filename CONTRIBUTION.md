@@ -26,8 +26,21 @@ I contributed to completing this lab by working through the different tasks rela
 
 ---
 
-### Member 3: [Enter Full Name]
-**Contribution:**
+### Member 3: Kenneth Kouokam
+
+My contribution to Lab 10 focuses on explaining the Elbow Method and interpreting the clustering
+results reported by the group. The experiment compares inertia for K values from 1 to 10. Inertia
+measures the sum of squared distances between the observations and their nearest cluster centers.
+My explanation describes why we look for a noticeable slowdown in the decrease rather than simply
+choosing the largest K. The group selected K=4, which also matches the four centers used to
+generate the synthetic dataset.
+
+My section also explains the reported result of four clusters containing 75 observations each.
+Together, these groups account for all 300 observations. Each centroid represents the mean position
+of the points assigned to that cluster, rather than necessarily being an actual customer. Equal group
+sizes are a result of this example, not a requirement of K-Means. The interpretation distinguishes
+compact groups in synthetic data from proven customer categories and explains why the cluster
+labels are identifiers, not rankings.
 
 
 ---
