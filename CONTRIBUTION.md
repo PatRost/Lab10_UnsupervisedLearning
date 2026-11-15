@@ -47,6 +47,13 @@ labels are identifiers, not rankings.
 
 ### Member 4: Anavictoria Cavazos
 
+ My contribution to this assignment was to ensure that the completed PCA code used standardized iris features, as seen by using 
+ StandardScaler() (X_scaled) before running PCA(n_components=2). These two components preserved 95.81% of the total data variance, 
+ indicating that the four original flower measurements were still captured. They also preserved visual cluster separation, which helps 
+ project 4D flowers onto the 2D scatter plot where the iris are still separated clearly. The losses that occurred because of the two 
+ components were 41.9% of minor variance and not being able to work with specific measurements or direct feature interpretability. 
+
+
 
 
 
