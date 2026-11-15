@@ -59,9 +59,20 @@ whether increasing the noise would make the elbow less clear and change the resu
 
 ---
 
-### Member 4: [Enter Full Name]
-**Reflection:**
+### Member 4: Anavictoria Cavazos
 
+After working through Lab 10, I learned more about how K-Means clustering works and how it functions for unsupervised learning. In short, 
+K-Means clustering helps group unlabeled data points based on similarities. However, before that was put into use, the elbow method had 
+to be used first, which helped determine the number of groups that would be used.
+
+During the elbow method, it was seen that k = 4 was the 
+best number, which just showed how the elbow method in the lab helped figure out the ideal number of clusters. It was seen how the 
+inertia would drop sharply as the number of clusters went up, but once the number passed 4, it would just split the existing groups, 
+which showed why 4 was the best number of clusters. 
+
+Overall, this lab helped me understand what can be used for unsupervised learning and 
+how to apply it by practicing first how it was used for the customer dataset and comparing this lab to prior labs where supervised 
+learning was in use. 
 
 
 ---
