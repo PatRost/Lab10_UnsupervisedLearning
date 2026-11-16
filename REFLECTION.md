@@ -77,8 +77,20 @@ learning was in use.
 
 ---
 
-### Member 5: [Enter Full Name]
-**Reflection:**
+### Member 5: Hashim Sayed Hoosini
+Before starting this lab, most of our class work focused on predicting specific outcomes using target labels. Trying out unsupervised learning felt different because we had to let the algorithm find its own patterns. I found it interesting to see how a model can group data together without us telling it what the correct answer should be.
+
+
+In Task 1, coding the Elbow Method was helpful because it gave me a practical way to choose the number of clusters. At first, it is easy to think that a lower inertia score is always better, but this exercise showed me why that is not true. If we have too many clusters, the model just gets messy and doesn't actually group the data in a useful way.
+
+
+Task 2 made everything click when we plotted the actual points and their centroids. Seeing the customer segments color-coded on the screen showed me how businesses can use this math to understand different customer behaviors. It made the abstract ideas of K-Means feel much more real and practical.
+
+
+Working with PCA in Task 3 was another useful part of the lab. It was surprising to see how we could drop from four dimensions down to only two while still keeping almost ninety-eight percent of our original details. This showed me that we can make our datasets much smaller and easier to work with without losing important information.
+
+
+Overall, working through these three tasks as a group helped me see how clustering and dimensionality reduction fit together. We had to collaborate to make sure our code worked and that we could explain our charts clearly. This experience makes me feel much more confident about using unsupervised learning on our future projects.
 
 
 
