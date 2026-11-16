@@ -59,8 +59,15 @@ labels are identifiers, not rankings.
 
 ---
 
-### Member 5: [Enter Full Name]
-**Contribution:**
+### Member 5:Hashim Sayed Hoosini
+
+Because of a work schedule conflict, I had to complete my parts of this lab individually. There were no group meetings, but rather a shared task sent to everyone in our group chat so we could all participate and do our parts.
+
+Instead of writing the code from scratch, I worked with Gemini to run the code, analyze the outputs, and get clear answers to any questions I had during the process. Using this approach helped me go through each section of the notebook systematically and gain a much stronger hands-on understanding of the material.
+
+
+My main focus was ensuring that the unsupervised learning models—such as the K-Means Elbow Method and the PCA dimensionality reduction—ran correctly on our datasets. By using Gemini as a learning partner to execute the cells and explain the code blocks, I was able to successfully complete my assigned share of the project while focusing on my primary goal of learning and better understanding these machine learning concepts.
+
 
 
 ---
