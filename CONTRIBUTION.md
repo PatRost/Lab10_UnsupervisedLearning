@@ -61,7 +61,7 @@ labels are identifiers, not rankings.
 
 ### Member 5:Hashim Sayed Hoosini
 
-Because of a work schedule conflict, I had to complete my parts of this lab individually. There were no group meetings, but rather a shared task sent to everyone in our group chat so we could all participate and do our parts.
+Because of a work schedule conflict, I had to complete my parts of this lab individually. I followed the shared task sent to everyone in our group chat so we could all participate and do our parts.
 
 Instead of writing the code from scratch, I worked with Gemini to run the code, analyze the outputs, and get clear answers to any questions I had during the process. Using this approach helped me go through each section of the notebook systematically and gain a much stronger hands-on understanding of the material.
 
